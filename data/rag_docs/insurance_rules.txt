@@ -1,0 +1,3 @@
+Insurance premium depends on coverage and risk profile.
+Policies may lapse if premium is not paid.
+Nominee updates require verification.

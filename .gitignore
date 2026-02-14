@@ -1,0 +1,16 @@
+# Python
+__pycache__/
+*.pyc
+
+# Virtual environments
+venv/
+env/
+
+# Logs
+*.log
+
+# Model files
+model/
+*.bin
+*.pt
+*.safetensors

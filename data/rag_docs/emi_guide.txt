@@ -1,0 +1,3 @@
+EMI is calculated using principal, interest rate, and tenure.
+It includes both principal and interest components.
+Longer tenure reduces EMI but increases total interest.

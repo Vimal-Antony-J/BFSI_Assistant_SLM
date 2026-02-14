@@ -1,0 +1,3 @@
+Loan foreclosure allows early closure of the loan.
+Charges may apply depending on loan type.
+Late payments may impact credit score.
